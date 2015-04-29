@@ -1,1 +1,1 @@
-This is the readme in the example repo.
+This is the README.md in the example repo.
