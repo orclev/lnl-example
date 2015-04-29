@@ -1,0 +1,5 @@
+[clog]
+repository = "https://github.com/orclev/lnl-example"
+subtitle = "LNL Example"
+# If you use tags, you can set the following
+from-latest-tag = true
