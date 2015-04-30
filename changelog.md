@@ -1,3 +1,20 @@
+<a name="1.2.0"></a>
+## 1.2.0 LNL Example (2015-04-30)
+
+
+#### Bug Fixes
+
+* **main**  remove baz.txt ([ba09604d](https://github.com/orclev/lnl-example/commit/ba09604dd1c3670582fdbf1de23810eab68bf726))
+
+#### Features
+
+* **main**
+  *  add baz.txt back in ([073c2ee9](https://github.com/orclev/lnl-example/commit/073c2ee9fe4e9845d5632e7665cae6ad587dadfe))
+  *  add bax.txt ([dbddaed4](https://github.com/orclev/lnl-example/commit/dbddaed4c9407ebfe5a27ace5a1f02444dcadaa2))
+  *  add extra stuff to baz.txt ([dcf42d0f](https://github.com/orclev/lnl-example/commit/dcf42d0fdcd0b913798b2465c50179f95d2e3f1c))
+
+
+
 <a name="1.1.0"></a>
 ## 1.1.0 LNL Example (2015-04-29)
 
