@@ -1,0 +1,3 @@
+Baz.txt is cool, it should be in the repo!
+
+STOP DELETING IT!
