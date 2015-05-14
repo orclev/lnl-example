@@ -1,3 +1,13 @@
+<a name="1.3.0"></a>
+## 1.3.0 LNL Example (2015-05-14)
+
+
+#### Features
+
+* **main**  add new super cool feature ([842d8f67](https://github.com/orclev/lnl-example/commit/842d8f6777e108891332f4380e3a80835ccff733))
+
+
+
 <a name="1.2.0"></a>
 ## 1.2.0 LNL Example (2015-04-30)
 
